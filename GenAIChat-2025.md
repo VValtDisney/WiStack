@@ -1,4 +1,4 @@
-# WiStack
+# DevStack-GenAi
 ```mermaid
 graph LR
 %% Main Categories
